@@ -1,0 +1,27 @@
+
+*{
+
+background-color: blueviolet;
+
+}
+
+
+h2 {
+
+    background-color: royalblue;
+    font-size:30px
+}
+
+
+
+.header {
+
+    background-color:rgb(53, 221, 2)
+    
+}
+
+.grid {
+
+    justify-content: space-evenly;
+    border: 200x solid #0000
+}
